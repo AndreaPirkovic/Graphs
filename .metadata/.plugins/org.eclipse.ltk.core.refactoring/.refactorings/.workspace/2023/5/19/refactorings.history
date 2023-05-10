@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Adjacency_Matrix&apos; to &apos;Adjacency_MatrixOneDirectional&apos;&#x0D;&#x0A;- Original element: &apos;Adjacency_Matrix&apos;&#x0D;&#x0A;- Renamed element: &apos;Adjacency_Matrix&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Adjacency_Matrix&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Adjacency_Matrix" name="Adjacency_MatrixOneDirectional" references="true" stamp="1683740027179" version="1.0"/>
+</session>
